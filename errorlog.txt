@@ -1,0 +1,10 @@
+In plot function
+plot('MarkerSize', '7') wrong
+plot('MarkerSize',7) correct
+
+for i=1:n
+    for j=1:m
+        #code here
+    end
+end
+
